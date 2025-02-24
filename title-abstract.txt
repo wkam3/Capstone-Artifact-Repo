@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Computer Vision-Based Inspection for SDGE Aviation Services
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The reliable operation of electrical infrastructure is crucial for maintaining power distribution and preventing hazardous situations. This study presents an innovative approach to enhance the safety and efficiency of electrical asset management by leveraging computer vision techniques. We propose a model based on the pre-trained YOLOv11 (You Only Look Once version 11) architecture to identify obstructions in electrical assets automatically. Our method aims to detect various types of obstructions, such as vegetation encroachment, debris accumulation, and wildlife, which could potentially compromise the integrity of electrical equipment. By fine-tuning the YOLOv11 model on a custom dataset of electrical asset images, we develop a robust system capable of real-time obstruction detection. This approach offers significant advantages over traditional manual inspection methods, including increased accuracy, reduced inspection time, and improved safety for utility workers. The resulting model has the potential to revolutionize maintenance practices in the power industry by enabling proactive identification of potential hazards, thereby minimizing the risk of equipment failure and power outages. Our research contributes to the growing field of AI-assisted infrastructure management and paves the way for more resilient and efficient electrical grids.
